@@ -1,4 +1,4 @@
-# jamming-app
+# jammming-app
 
 A simple React application that allows users to search for albums using the Spotify API.
 
