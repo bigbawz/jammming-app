@@ -49,6 +49,7 @@ function SearchBar({ accessToken }) {
         <>
             <Container>
                 <h1>The Jamming App</h1>
+                <h4 style={{ marginBottom: "4rem" }}>A simple app using the Spotify API to search for albums</h4>
                 <InputGroup className="mb-2" size="lg">
                     <FormControl
                         placeholder="Search for music..."
